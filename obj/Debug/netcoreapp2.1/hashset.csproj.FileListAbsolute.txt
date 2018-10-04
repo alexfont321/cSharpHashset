@@ -1,0 +1,11 @@
+/Users/alejandro/Workspace/csharp/exercises/hashset/bin/Debug/netcoreapp2.1/hashset.deps.json
+/Users/alejandro/Workspace/csharp/exercises/hashset/bin/Debug/netcoreapp2.1/hashset.runtimeconfig.json
+/Users/alejandro/Workspace/csharp/exercises/hashset/bin/Debug/netcoreapp2.1/hashset.runtimeconfig.dev.json
+/Users/alejandro/Workspace/csharp/exercises/hashset/bin/Debug/netcoreapp2.1/hashset.dll
+/Users/alejandro/Workspace/csharp/exercises/hashset/bin/Debug/netcoreapp2.1/hashset.pdb
+/Users/alejandro/Workspace/csharp/exercises/hashset/obj/Debug/netcoreapp2.1/hashset.csprojAssemblyReference.cache
+/Users/alejandro/Workspace/csharp/exercises/hashset/obj/Debug/netcoreapp2.1/hashset.csproj.CoreCompileInputs.cache
+/Users/alejandro/Workspace/csharp/exercises/hashset/obj/Debug/netcoreapp2.1/hashset.AssemblyInfoInputs.cache
+/Users/alejandro/Workspace/csharp/exercises/hashset/obj/Debug/netcoreapp2.1/hashset.AssemblyInfo.cs
+/Users/alejandro/Workspace/csharp/exercises/hashset/obj/Debug/netcoreapp2.1/hashset.dll
+/Users/alejandro/Workspace/csharp/exercises/hashset/obj/Debug/netcoreapp2.1/hashset.pdb
