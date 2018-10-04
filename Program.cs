@@ -39,9 +39,9 @@ namespace hashset {
             }
 
             // Display all unique model names
-            foreach (string vehicle in allModels) {
-                Console.WriteLine ($"{vehicle}");
-            }
+            // foreach (string vehicle in allModels) {
+            //     Console.WriteLine ($"{vehicle}");
+            // }
 
             /*
                 Output
@@ -71,7 +71,7 @@ namespace hashset {
             Showroom.Add("Corolla");
 
 
-            Console.WriteLine(Showroom.Count);
+            // Console.WriteLine(Showroom.Count);
 
 
             HashSet<string> usedLot = new HashSet<string> ();
@@ -84,11 +84,32 @@ namespace hashset {
 
             Showroom.Remove("Porsche");
 
+            // foreach(string model in Showroom) {
+            //     Console.WriteLine(model);
+            // }
+
+
+            HashSet<string> JunkYard = new HashSet<string> ();
+                JunkYard.Add("Sentra");
+                JunkYard.Add("Nissan");
+                JunkYard.Add("Audi");
+                JunkYard.Add("Fiat");
+
+
+            HashSet<string> clone = new HashSet<string>(Showroom);
+            clone.IntersectWith(JunkYard);
+
+            // foreach(string model in clone) {
+            //     Console.WriteLine(model);
+            // }
+
+            JunkYard.Remove("Fiat");
+            Showroom.UnionWith(JunkYard);
+
+
             foreach(string model in Showroom) {
                 Console.WriteLine(model);
             }
-
-
 
 
         }
